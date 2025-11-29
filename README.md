@@ -1,6 +1,6 @@
 # Deploying Nodejs Webapp on EKS cluster with Terraform, Ansible, Istio, Jenkins and Argocd
 ## Project Diagram
-![My Image](Images/Cloud Architecture.png)
+![My Image](Images/Cloud%20Architecture.png)
 
 ## Project Description
 - Provisioning 3 servers for jenkins, nexus and nginx with Terraform and configuring them with Ansible
